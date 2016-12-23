@@ -1,6 +1,8 @@
 {
     "name": "sunnnnn/qq-connect",
     "description": "qq connect",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "sunnnnn",
