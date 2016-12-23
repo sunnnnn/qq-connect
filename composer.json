@@ -3,6 +3,7 @@
     "description": "add qq connect",
     "license": "MIT",
     "keywords": ["qq-connect"],
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "sunnnnn",
