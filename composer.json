@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sunnnnn\\qq-connect\\": "src/"
+            "sunnnnn\\qqconnect\\": "src/"
         }
     }
 }
