@@ -9,8 +9,6 @@
             "email": "263021000@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-	"version":"1.0.0",
     "require": {
         "php": ">=5.4.0"
     },
