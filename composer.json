@@ -1,15 +1,15 @@
 {
     "name": "sunnnnn/qq-connect",
-    "description": "add qq connect",
+    "description": "qq connect",
+    "type": "library",
     "license": "MIT",
-    "keywords": ["qq-connect"],
-	"minimum-stability": "dev",
     "authors": [
         {
             "name": "sunnnnn",
             "email": "263021000@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0"
     },
